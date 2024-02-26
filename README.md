@@ -1,6 +1,6 @@
 # Data Analytics & Science
 
-Hello!! Welcome to my Portfolio :) 
+Hello!! Welcome to my Portfolio 😄
 
 
 ## Professional profile
