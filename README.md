@@ -3,7 +3,10 @@
 Hello!! Welcome to my Portfolio :) 
 
 
-👩🏻‍💻 Working - while learning - with Data Analytics and Data Science.   
+## Professional profile
+
+
+💻 Working - while learning - with Data Analytics and Data Science.   
 
 🎓 Chemical Engineering Degree.  
 
