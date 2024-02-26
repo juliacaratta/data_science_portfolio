@@ -3,9 +3,12 @@
 Hello!! Welcome to my Portfolio :) 
 
 
-👩🏻‍💻 Working - while learning - with Data Analytics and Data Science. 
-🎓 Chemical Engineering Degree
-🧩 I have 2+ years of experience in developing end-end Predictive Monitoring projects.
+👩🏻‍💻 Working - while learning - with Data Analytics and Data Science.   
+
+🎓 Chemical Engineering Degree.  
+
+🧩 I have 2+ years of experience in developing end-end Predictive Monitoring projects.   
+
 
 ## Skills & Tools
 ⚙️ SQL | Python | GCP Big Cloud | Amazon AWS | Git | Azure | Airflow | Postman | Jupyter | Excel
