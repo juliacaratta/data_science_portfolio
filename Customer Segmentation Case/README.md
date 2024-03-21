@@ -1,6 +1,7 @@
-The present Customer Segmentation Case was developed based on the Kaggle's dataset.
+The present Customer Segmentation Case was developed based on the Kaggle's dataset "Customer Personality Analysis"
 
-More information in: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
+More information available at: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 
 ## Context
@@ -13,3 +14,8 @@ More information in: https://www.kaggle.com/datasets/imakash3011/customer-person
 
 ### Acknowledgement
 > The dataset for this project is provided by Dr. Omar Romero-Hernandez.
+
+
+### License
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0: Public Domain</a>
+
