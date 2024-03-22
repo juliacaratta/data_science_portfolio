@@ -6,7 +6,7 @@ Hello!! Welcome to my Portfolio 😄
 ## Professional profile
 
 
-💻 Currently Working with Data Science.
+💻 Currently working with Data Science.
 
 🔍 Experience with Data Analysis and Business Intelligence.
 
