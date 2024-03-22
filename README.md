@@ -1,4 +1,4 @@
-# Data Analytics & Science
+# Data Science & Analytics
 
 Hello!! Welcome to my Portfolio 😄
 
@@ -6,7 +6,9 @@ Hello!! Welcome to my Portfolio 😄
 ## Professional profile
 
 
-💻 Working - while learning - with Data Analytics and Data Science.   
+💻 Currently Working with Data Science.
+
+🔍 Experience with Data Analysis and Business Intelligence.
 
 🎓 Chemical Engineering Degree.  
 
