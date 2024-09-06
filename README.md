@@ -6,13 +6,15 @@ Hello!! Welcome to my Portfolio 😄
 ## Professional profile
 
 
-💻 Currently working with Data Science.
+💻 Currently working in Data Science
 
-🔍 Experience with Data Analysis and Business Intelligence.
+🔍 Extensive experience in Data Analysis and Business Intelligence
+
+🕵🏻‍♀️ Proficient in Fraud Detection and Suspicious Behavior Analysis
 
 🎓 Chemical Engineering Degree.  
 
-🧩 I have 2+ years of experience in developing end-to-end Predictive Monitoring models and rules.   
+🧩 Since January 2022, I have been developing end-to-end predictive monitoring models and rules, from data collection to deployment and evaluation.
 
 
 ## Skills & Tools
